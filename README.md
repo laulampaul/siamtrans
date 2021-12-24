@@ -1,4 +1,4 @@
-# siamtrans
+# siamtrans AAAI 2022
 SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers AAAI 2022
 
 The code will come soon !
