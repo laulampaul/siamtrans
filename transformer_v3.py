@@ -365,7 +365,7 @@ class TForwardBlock(nn.Module):
         x = x + self.feed_forward(x)
         return {'x': x, 'b': b, 'c': c}
 
-if name=='__main__':
+if __name__=='__main__':
     model = Siamtrans()
     model = model.cuda()
     net_input = torch.randn(1,3,128,128)
